@@ -27,7 +27,7 @@ To apply my analytical experience achieved across academic and employment operat
 - **Personal Attributes**:
   - Trustworthy, Team player, High attention to detail, Ability to meet deadlines, Highly competent and self-motivated
  
-## Certifications
+## Certificates
 - **[IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/SP56FSEAQ5ZA)**
 - **[IBM AI Engineering](https://www.coursera.org/account/accomplishments/professional-cert/4MAWWWYUJKMA)**
 - **[Machine Learning](https://www.coursera.org/account/accomplishments/verify/QQEJXPP3V5UM)**

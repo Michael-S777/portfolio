@@ -32,5 +32,5 @@ To apply my analytical experience achieved across academic and employment operat
  
 ## Certifications
 - **[Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/SP56FSEAQ5ZA)**
-- **[Machine Learning](https://www.coursera.org/account/accomplishments/professional-cert/4MAWWWYUJKMA)**
+- **[IBM AI Engineering](https://www.coursera.org/account/accomplishments/professional-cert/4MAWWWYUJKMA)**
 - **[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R)**

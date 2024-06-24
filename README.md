@@ -1,4 +1,5 @@
 # Data Scientist Portfolio
+![image](https://github.com/Michael-S777/portfolio/assets/61314039/648083a9-c2b8-43ff-a8de-6e2ba3d6a3f1)
 
 ## Career Objective
 To apply my analytical experience achieved across academic and employment operations, and to work in environments which strive for continuous improvement to meet business needs now and in the future.

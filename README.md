@@ -6,7 +6,7 @@ to apply my analytical experience achieved across academic and employment operat
 and to work in environments which strive for continuous improvement to meet business needs now and in the future.
 
 EDUCATION & PROFESSIONAL DEVELOPMENT
-          CPA Program,                                                                                2012 – 2015
+          CPA Program,                                                         2012 – 2015
           CPA Australia, Sydney, Australia
           
           Master of Professional Accounting (Distinction average),    2008 – 2010

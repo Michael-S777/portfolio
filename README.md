@@ -24,13 +24,11 @@ To apply my analytical experience achieved across academic and employment operat
   - STATA, R, Python, Gephi, SAS, SQL, Tableau, Power BI
   
 - **Personal Attributes**:
-  - Trustworthy
-  - Team player
-  - High attention to detail
-  - Ability to meet deadlines
-  - Highly competent and self-motivated
+  - Trustworthy, Team player, High attention to detail, Ability to meet deadlines, Highly competent and self-motivated
  
 ## Certifications
-- **[Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/SP56FSEAQ5ZA)**
+- **[IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/SP56FSEAQ5ZA)**
 - **[IBM AI Engineering](https://www.coursera.org/account/accomplishments/professional-cert/4MAWWWYUJKMA)**
+- **[Machine Learning]()**
 - **[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R)**
+- **[IBM Full Stack Software Development](https://www.coursera.org/account/accomplishments/professional-cert/6J9WSUDD7HNJ)**

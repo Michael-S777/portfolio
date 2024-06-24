@@ -21,19 +21,8 @@ To apply my analytical experience achieved across academic and employment operat
 
 - **Strong analytical and problem-solving skills**
 - **Technical Skills**:
-  - STATA
-  - R
-  - Python
-  - Gephi
-  - SAS
-  - Access
-  - SQL
-  - MS Excel
-  - Tableau
-  - Power BI
-  - MS Azure
-  - MS Office
-  - MYOB
+  - STATA, R, Python, Gephi, SAS, SQL, Tableau, Power BI
+  
 - **Personal Attributes**:
   - Trustworthy
   - Team player

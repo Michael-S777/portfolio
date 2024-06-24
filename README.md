@@ -1,4 +1,3 @@
-# portfolio
 # Data Scientist Portfolio
 
 ## Career Objective

@@ -1,16 +1,12 @@
 title: Michael S
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  With over a decade of experience as a Data Scientist at UTS Business School, I leverage my PhD in Statistics and my skills in machine learning and data mining to create data-driven solutions that inform business decisions and strategies. 
-  I collaborate with multidisciplinary teams of researchers, academics, and industry partners to design, implement, and evaluate projects that address real-world problems and challenges in various domains, such as marketing, finance, education, and health.
-  <br><br>
-  Technical skills:
-  <br><br>
-  Python, SQL, R, STATA, SAS,
-  Tableau, Power BI
-  <br><br>
-
+description:
+  With over a decade of experience as a Data Scientist at UTS Business School, I leverage my PhD in Statistics and my expertise in machine learning and data mining to develop data-driven solutions that inform business decisions and strategies. 
+<br><br>
+  **Technical Skills:**
+<br><br>
+  - Programming: Python, SQL, R, STATA, SAS
+  - Data Visualization: Tableau, Power BI
+<br><br>
 theme: jekyll-theme-minimal
-
 
 

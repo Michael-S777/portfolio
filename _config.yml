@@ -1,7 +1,14 @@
 title: Michael S
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Data scientist
+  <br><br>
+  Technical skills:
+  Python, SQL, R, STATA, SAS,
+  Tableau, Power BI
+  <br><br>
+
 theme: jekyll-theme-minimal
 
-Technical skills:
-Python, SQL, R, STATA, SAS,
-Tableau, Power BI
+
 

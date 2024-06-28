@@ -5,8 +5,10 @@ description: >
   <br><br>
   <h2>Technical Skills</h2>
   <br><br>
-  **Programming:** Python, SQL, R, STATA, SAS
+  <h3>Programming:<h3>
+  Python, SQL, R, STATA, SAS
   <br><br>
-  **Data Visualization:** Tableau, Power BI
+  <4>Data Visualization:<h4> 
+  Tableau, Power BI
 
 theme: jekyll-theme-minimal

@@ -1,15 +1,14 @@
-title: Michael S
+title: **Michael S**
 
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  With over a decade of experience as a Data Scientist at UTS Business School, I leverage my PhD in Statistics and my skills in machine learning and data mining to create data-driven solutions that inform business decisions and strategies. 
-  <br><br>
-  ##Technical skills:
-  <br><br>
-  **Programming:**
-  Python, SQL, R, STATA, SAS
-  <br><br>
-  **Data Visualization:** Tableau, Power BI
-  <br><br>
-  
+description: > 
+  <div style="line-height: 1.6;">
+    With over a decade of experience as a Data Scientist at UTS Business School, I leverage my PhD in Statistics and my skills in machine learning and data mining to create data-driven solutions that inform business decisions and strategies.
+    <br><br>
+    <h2>Technical Skills</h2>
+    <br><br>
+    <strong>Programming:</strong> Python, SQL, R, STATA, SAS
+    <br><br>
+    <strong>Data Visualization:</strong> Tableau, Power BI
+  </div>
+
 theme: jekyll-theme-minimal

@@ -41,6 +41,7 @@ To apply my analytical experience achieved across academic and employment operat
 - **[Data Engineer in Python](https://www.datacamp.com/statement-of-accomplishment/track/9d517315d67ac2e34c5765717fb7f560d85d69e8?raw=1)**
 
 
+## Projects
 ### Geospatial analysis of deprivation in London
 In this project, I use Geopandas to visualise data on deprivation levels in London and analyse changes over time.
 

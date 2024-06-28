@@ -17,6 +17,18 @@ To apply my analytical experience achieved across academic and employment operat
 - The National Research University – Higher School of Economics, Moscow, Russian Federation (1996 – 2001)
 
 ---
+DATA SCIENTIST & RESEARCHER,                        2014 – Current
+        University of Technology, Sydney, Australia
+        Responsibilities include, however, not limited to:                     
+	Participation in research projects with internal and external stakeholders
+	Developing code for large complex projects
+	Using machine learning frameworks to build data models
+	Effective model development in order to achieve research objectives
+	Developing analytics solutions, including data extraction, pre-processing, modeling, evaluation and visualization to facilitate research project outcomes
+	Interpretation of research findings and preparing reports summarizing the results gained from the research
+	Participation as data scientist / researcher / consultant in the following industry funded research projects
+
+
  
 ## Certificates
 - **[IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/SP56FSEAQ5ZA)**

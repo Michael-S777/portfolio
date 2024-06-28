@@ -30,7 +30,8 @@ To apply my analytical experience achieved across academic and employment operat
 ### Geospatial analysis of deprivation in London
 In this project, I use Geopandas to visualise data on deprivation levels in London and analyse changes over time.
 
-<img src="images/london2.png?raw=true"/>
+![image](https://github.com/Michael-S777/portfolio/assets/61314039/9091655c-56c7-4720-899a-dff90f920f51)
+
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Geopandas-white?logo=Geopandas)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 

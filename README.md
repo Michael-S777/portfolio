@@ -24,13 +24,12 @@ To apply my analytical experience achieved across academic and employment operat
 *2014 – Present*
 
 **Responsibilities:**
-- Participation in research projects with internal and external stakeholders
 - Developing code for large complex projects
 - Using machine learning frameworks to build data models
 - Effective model development to achieve research objectives
 - Developing analytics solutions, including data extraction, pre-processing, modeling, evaluation, and visualization to facilitate research project outcomes
 - Interpretation of research findings and preparing reports summarizing the results gained from the research
-- Participation as data scientist / researcher / consultant in the following industry-funded research projects
+- Participation as data scientist / researcher / consultant in the industry-funded research projects
 
  
 ## Certificates

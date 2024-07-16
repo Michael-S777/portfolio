@@ -57,7 +57,7 @@ In this project, I use Geopandas to visualise data on deprivation levels in Lond
 
 
 ### Python Project for Data Engineering
-The project emphasized Extract, Transform, Load (ETL) processes, web scraping, and API usage. Data was extracted from various sources, including web scraping and APIs, transformed to meet specific criteria, and loaded into databases for analysis. This experience demonstrated proficiency in data manipulation, cleaning, and storage, allowing for handling real-world data engineering challenges. The course provided the ability to efficiently manage data workflows and apply Python programming effectively in data engineering contexts.
+The project emphasized Extract, Transform, Load (ETL) processes, web scraping, and API usage. Data was extracted from various sources, including web scraping and APIs, transformed to meet specific criteria, and loaded into databases for analysis. This experience demonstrated proficiency in data manipulation, cleaning, and storage, allowing for handling real-world data engineering challenges. The project provided the ability to efficiently manage data workflows and apply Python programming effectively in data engineering contexts.
 ![1_Tdxmd1ewZ5zWNqKH_uK-7Q](https://github.com/user-attachments/assets/bec78ac8-46f1-4a6b-af29-6565e1a4d4b4)
 
 

@@ -61,5 +61,5 @@ The project emphasized Extract, Transform, Load (ETL) processes, web scraping, a
 
 ![Python for DE](https://github.com/user-attachments/assets/617f1686-69b5-44e1-b829-b344f148c02a)
 
-
+**[View code on Colab](https://colab.research.google.com/drive/1Hh-G_HKm93DOQV2QLuwZVIzoy0uX83mP#scrollTo=OqYshyFi6tnT)**
 

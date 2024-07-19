@@ -1,4 +1,4 @@
-# Data Scientist Portfolio
+# Data Science Portfolio
 ![image](https://github.com/Michael-S777/portfolio/assets/61314039/73fe024d-14de-4e18-9fd4-7d1bd357e0cf)
 
 

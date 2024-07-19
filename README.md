@@ -59,8 +59,10 @@ In this project, I use Geopandas to visualise data on deprivation levels in Lond
 ### Hate speech detection task
 Hate speech detection involves the automated identification of whether a piece of text contains content that is hateful or offensive. This task is crucial for maintaining safe and respectful online communities by filtering out harmful language. For this project, I developed a sophisticated classifier using PyTorch and a pre-trained BERT model, which is known for its effectiveness in natural language understanding.
 The core of the project was to leverage the power of BERT (Bidirectional Encoder Representations from Transformers) to understand the context and nuances of language in detecting hate speech. BERT's pre-trained capabilities allow it to comprehend and process text efficiently, making it ideal for this classification task. Using PyTorch, a popular deep learning framework, provided the flexibility and efficiency needed to train and fine-tune the model to achieve high accuracy.
+
 ![hate speech detetction](https://github.com/user-attachments/assets/fd550f92-4a66-41eb-ac2d-7d401857ae76)
 
+**[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)**
 
 ### Python Project for Data Engineering
 The project emphasized Extract, Transform, Load (ETL) processes, web scraping, and API usage. Data was extracted from various sources, including web scraping and APIs, transformed to meet specific criteria, and loaded into databases for analysis. This experience demonstrated proficiency in data manipulation, cleaning, and storage, allowing for handling real-world data engineering challenges. The project provided the ability to efficiently manage data workflows and apply Python programming effectively in data engineering contexts.

@@ -63,6 +63,7 @@ The core of the project was to leverage the power of BERT (Bidirectional Encoder
 
 **[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)**
 
+---
 ### Python Project for Data Engineering
 The project emphasized Extract, Transform, Load (ETL) processes, web scraping, and API usage. Data was extracted from various sources, including web scraping and APIs, transformed to meet specific criteria, and loaded into databases for analysis. This experience demonstrated proficiency in data manipulation, cleaning, and storage, allowing for handling real-world data engineering challenges. The project provided the ability to efficiently manage data workflows and apply Python programming effectively in data engineering contexts.
 

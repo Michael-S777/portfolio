@@ -58,7 +58,8 @@ The "Quality Wine Analysis" project aims to analyze and predict wine quality by 
 Hate speech detection involves the automated identification of whether a piece of text contains content that is hateful or offensive. This task is crucial for maintaining safe and respectful online communities by filtering out harmful language. For this project, I developed a sophisticated classifier using PyTorch and a pre-trained BERT model, which is known for its effectiveness in natural language understanding.
 The core of the project was to leverage the power of BERT (Bidirectional Encoder Representations from Transformers) to understand the context and nuances of language in detecting hate speech. BERT's pre-trained capabilities allow it to comprehend and process text efficiently, making it ideal for this classification task. Using PyTorch, a popular deep learning framework, provided the flexibility and efficiency needed to train and fine-tune the model to achieve high accuracy.
 
-https://miro.medium.com/v2/resize:fit:828/format:webp/1*o-8uk6TYeEOGP3HuqKpZlQ.png
+![image](https://github.com/user-attachments/assets/77a13acc-dbc6-4ec0-a959-9adb8ff3ba23)
+
 
 **[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)**
 

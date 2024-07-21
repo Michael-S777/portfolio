@@ -45,6 +45,9 @@ To apply my analytical experience achieved across academic and employment operat
 
 
 ## Projects
+### Wine quality analysis
+The "Quality Wine Analysis" project aims to analyze and predict wine quality by examining various chemical properties and other pertinent factors. Employing machine learning techniques, the project constructs predictive models designed to accurately forecast wine quality scores. This approach not only facilitates a deeper understanding of the relationships between wine attributes and quality but also showcases the practical application of data-driven methods in enhancing decision-making processes within the wine industry
+
 ### Hate speech detection task
 Hate speech detection involves the automated identification of whether a piece of text contains content that is hateful or offensive. This task is crucial for maintaining safe and respectful online communities by filtering out harmful language. For this project, I developed a sophisticated classifier using PyTorch and a pre-trained BERT model, which is known for its effectiveness in natural language understanding.
 The core of the project was to leverage the power of BERT (Bidirectional Encoder Representations from Transformers) to understand the context and nuances of language in detecting hate speech. BERT's pre-trained capabilities allow it to comprehend and process text efficiently, making it ideal for this classification task. Using PyTorch, a popular deep learning framework, provided the flexibility and efficiency needed to train and fine-tune the model to achieve high accuracy.

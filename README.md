@@ -33,7 +33,7 @@ To apply my analytical experience achieved across academic and employment operat
 
 --- 
 ## Certificates
-- **[IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/SP56FSEAQ5ZA)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |  **[IBM AI Engineering](https://www.coursera.org/account/accomplishments/professional-cert/4MAWWWYUJKMA)**
+- **[IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/SP56FSEAQ5ZA)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[IBM AI Engineering](https://www.coursera.org/account/accomplishments/professional-cert/4MAWWWYUJKMA)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 - **[Machine Learning](https://www.coursera.org/account/accomplishments/specialization/MEBN2FNAVPZL)** |  **[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R)**
 - **[IBM Full Stack Software Development](https://www.coursera.org/account/accomplishments/professional-cert/6J9WSUDD7HNJ)**
 - **[Data Engineer in Python](https://www.datacamp.com/statement-of-accomplishment/track/9d517315d67ac2e34c5765717fb7f560d85d69e8?raw=1)**

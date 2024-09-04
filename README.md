@@ -65,6 +65,7 @@ The core of the project was to leverage the power of BERT to understand the cont
 ![image](https://github.com/user-attachments/assets/77a13acc-dbc6-4ec0-a959-9adb8ff3ba23)
 
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 **[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)**
 
 ---

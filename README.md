@@ -43,6 +43,7 @@ To apply my analytical experience achieved across academic and employment operat
 - **[Learn SQL Basics for Data Science](https://www.coursera.org/account/accomplishments/specialization/7JZT6H3TH4HK)**
 - **[Intermediate PostgreSQL](https://www.coursera.org/account/accomplishments/verify/RTEVKMX77644)**
 - **[Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/N3P27B9BC4G7)**
+- **[Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/1R860J8ZVAHN)**
 - **[Data Science with Databricks for Data Analysts Specialization](https://coursera.org/share/1833c6ce3e91d225bfd509b8a46cedb6)**
 - **[NoSQL, Big Data, and Spark Foundations](https://www.coursera.org/account/accomplishments/specialization/AGMONTFA4HAA)**
 

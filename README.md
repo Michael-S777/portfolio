@@ -41,7 +41,7 @@ To apply my analytical experience achieved across academic and employment operat
 - **[Data Engineer in Python](https://www.datacamp.com/statement-of-accomplishment/track/9d517315d67ac2e34c5765717fb7f560d85d69e8?raw=1)**
 - **[Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/29NQSAB3ZAZ7)**
 - **[Learn SQL Basics for Data Science](https://www.coursera.org/account/accomplishments/specialization/7JZT6H3TH4HK)**
-- **[Intermediate PostgreSQL](https://www.coursera.org/account/accomplishments/verify/RTEVKMX77644)**
+- **[PostgreSQL for Everybody](https://www.coursera.org/account/accomplishments/specialization/743399HD1JT7)**
 - **[Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/N3P27B9BC4G7)**
 - **[Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/1R860J8ZVAHN)**
 - **[Data Science with Databricks for Data Analysts Specialization](https://coursera.org/share/1833c6ce3e91d225bfd509b8a46cedb6)**

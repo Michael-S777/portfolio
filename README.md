@@ -90,3 +90,4 @@ The solution must ensure that:
 - Each digit from 1 to 9 appears exactly once in every column.
 - Each digit from 1 to 9 appears exactly once in each of the nine 3x3 sub-grids.
 
+**[View code on Colab](https://colab.research.google.com/drive/1XG8HPPZ5oSMzKllwFQ1t7OffBgYX9ZJE?usp=sharing)**

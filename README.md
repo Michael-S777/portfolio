@@ -79,7 +79,7 @@ The project emphasized Extract, Transform, Load (ETL) processes, web scraping, a
 **[View code on Colab](https://colab.research.google.com/drive/1Hh-G_HKm93DOQV2QLuwZVIzoy0uX83mP?usp=sharing)**
 
 ---
-### Sudoku
+### Sudoku solver
 ![image](https://github.com/user-attachments/assets/e7e647ad-a50f-4435-925f-a35005816949)
 
 The task is to create a program that solves a Sudoku puzzle by filling in the blank cells.

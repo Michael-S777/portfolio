@@ -78,3 +78,15 @@ The project emphasized Extract, Transform, Load (ETL) processes, web scraping, a
 
 **[View code on Colab](https://colab.research.google.com/drive/1Hh-G_HKm93DOQV2QLuwZVIzoy0uX83mP?usp=sharing)**
 
+---
+### Sudoku
+![image](https://github.com/user-attachments/assets/e7e647ad-a50f-4435-925f-a35005816949)
+
+The task is to create a program that solves a Sudoku puzzle by filling in the blank cells.
+
+The solution must ensure that:
+
+- Each digit from 1 to 9 appears exactly once in every row.
+- Each digit from 1 to 9 appears exactly once in every column.
+- Each digit from 1 to 9 appears exactly once in each of the nine 3x3 sub-grids.
+

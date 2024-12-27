@@ -54,7 +54,8 @@ To apply my analytical experience achieved across academic and employment operat
 ### Black Friday Purchases
 The project aims to support the organization's management team in analyzing customer purchasing behavior, with a focus on purchase amounts in relation to gender and other influencing factors. The objective is to determine whether spending patterns differ between male and female customers, particularly examining whether women spend more than men on Black Friday.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7cfde9e6-28d6-48c0-b207-8f2ff2a87399)
+
 
 
 ### Wine quality analysis

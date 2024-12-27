@@ -54,14 +54,14 @@ To apply my analytical experience achieved across academic and employment operat
 ### Black Friday Purchases
 The project aims to assist the organization's management team in analyzing customer purchasing behavior, with a particular emphasis on purchase amounts in relation to gender and other influencing factors. The objective is to determine whether spending patterns differ between male and female customers, particularly examining whether women spend more than men on Black Friday. The project involves comprehensive exploratory data analysis to understand the dataset and uncover meaningful insights. Key steps include data cleaning, identifying unique and missing values, detecting duplicates, and generating statistical summaries. Data visualization is utilized for numerical and categorical features, and actionable insights are derived to better understand customer purchasing behavior and support strategic decision-making.
 
-![image](https://github.com/user-attachments/assets/7cfde9e6-28d6-48c0-b207-8f2ff2a87399)
+![image](https://github.com/user-attachments/assets/3b1b5fa7-114c-4a50-a2ec-81cd8d861ae5)
+
 
 **[View code on Colab](https://colab.research.google.com/drive/1DCYDU0KGvloirSs0LgbIYlSirrZoUnkW?usp=sharing)**
 
 ---
 ### Wine quality analysis
 The "Quality Wine Analysis" project aims to predict and assess the quality of wine using machine learning techniques. Beginning with the importation of essential libraries and the exploration of a wine quality dataset, the project progresses through data analysis, including statistical summaries and visualizations to uncover insights into the dataset's features and their correlations. Preprocessing steps address data cleaning, normalization, and categorical encoding to prepare the dataset for model training. Multiple machine learning models are then built and evaluated to predict wine quality, employing metrics such as Mean Squared Error and R-squared for regression tasks. The project concludes with a comprehensive review of model performance and potential areas for further refinement, highlighting its application in providing actionable insights for the wine industry based on data-driven analysis.
-
 
 ![image](https://github.com/user-attachments/assets/54453745-32c9-4394-9a9e-281cc08b5ff8)
 

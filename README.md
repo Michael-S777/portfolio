@@ -7,8 +7,7 @@ To apply my analytical experience achieved across academic and employment operat
 
 ## Education & Professional Development
 
-- **PhD degree in Accounting & Taxation**,                       
-  University of Technology, Sydney, Australia (2021 - Current)
+- **PhD degree in Accounting & Taxation**, University of Technology, Sydney, Australia (2021 - Current)
 - **CPA Program**,
   CPA Australia, Sydney, Australia (2012 – 2015)
 - **Master of Professional Accounting** (Distinction average),

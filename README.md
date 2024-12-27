@@ -50,6 +50,13 @@ To apply my analytical experience achieved across academic and employment operat
 
 ---
 ## Projects
+
+### Black Friday Purchases
+The project aims to support the organization's management team in analyzing customer purchasing behavior, with a focus on purchase amounts in relation to gender and other influencing factors. The objective is to determine whether spending patterns differ between male and female customers, particularly examining whether women spend more than men on Black Friday.
+
+![Uploading image.png…]()
+
+
 ### Wine quality analysis
 The "Quality Wine Analysis" project aims to predict and assess the quality of wine using machine learning techniques. Beginning with the importation of essential libraries and the exploration of a wine quality dataset, the project progresses through data analysis, including statistical summaries and visualizations to uncover insights into the dataset's features and their correlations. Preprocessing steps address data cleaning, normalization, and categorical encoding to prepare the dataset for model training. Multiple machine learning models are then built and evaluated to predict wine quality, employing metrics such as Mean Squared Error and R-squared for regression tasks. The project concludes with a comprehensive review of model performance and potential areas for further refinement, highlighting its application in providing actionable insights for the wine industry based on data-driven analysis.
 

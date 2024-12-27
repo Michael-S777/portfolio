@@ -10,13 +10,13 @@ To apply my analytical experience achieved across academic and employment operat
 - **PhD degree in Accounting & Taxation**,                       
   University of Technology, Sydney, Australia (2021 - Current)
 - **CPA Program**,
-- CPA Australia, Sydney, Australia (2012 – 2015)
+  CPA Australia, Sydney, Australia (2012 – 2015)
 - **Master of Professional Accounting** (Distinction average),
-- University of Technology, Sydney, Australia (2008 – 2010)
+  University of Technology, Sydney, Australia (2008 – 2010)
 - **PhD in Economics (Statistics)**,
-- Moscow State University of Economics, Statistics and Informatics, Moscow, Russian Federation (2001 – 2004)
+  Moscow State University of Economics, Statistics and Informatics, Moscow, Russian Federation (2001 – 2004)
 - **Bachelor of Economics (Finance)**,
-- The National Research University – Higher School of Economics, Moscow, Russian Federation (1996 – 2001)
+  The National Research University – Higher School of Economics, Moscow, Russian Federation (1996 – 2001)
 
 ---
 ## Work Experience

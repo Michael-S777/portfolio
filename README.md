@@ -56,6 +56,7 @@ The project aims to assist the organization's management team in analyzing custo
 
 ![image](https://github.com/user-attachments/assets/7cfde9e6-28d6-48c0-b207-8f2ff2a87399)
 
+**[View code on Colab](https://colab.research.google.com/drive/1DCYDU0KGvloirSs0LgbIYlSirrZoUnkW?usp=sharing)**
 
 
 ### Wine quality analysis

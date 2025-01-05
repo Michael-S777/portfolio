@@ -47,6 +47,7 @@ To apply my analytical experience achieved across academic and employment operat
 - **[Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/1R860J8ZVAHN)**
 - **[Data Science with Databricks for Data Analysts Specialization](https://coursera.org/share/1833c6ce3e91d225bfd509b8a46cedb6)**
 - **[NoSQL, Big Data, and Spark Foundations](https://www.coursera.org/account/accomplishments/specialization/AGMONTFA4HAA)**
+- **[Generative AI for Data Scientists Specialization](https://www.coursera.org/account/accomplishments/specialization/DPUEDK02C6IJ)**
 
 ---
 ## Projects

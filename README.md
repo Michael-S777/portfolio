@@ -34,8 +34,7 @@ To apply my analytical experience achieved across academic and employment operat
 --- 
 ## Certificates
 - **[IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/SP56FSEAQ5ZA)**
-- **[IBM AI Engineering](![IBM AI Engineering](https://github.com/user-attachments/assets/816a74ca-5a21-4395-af88-fac46a545255)
-)**
+- **[IBM AI Engineering](https://github.com/Michael-S777/Python-exercises/blob/main/IBM%20AI%20Engineering.pdf)**
 - **[Machine Learning](https://www.coursera.org/account/accomplishments/specialization/MEBN2FNAVPZL)**
 - **[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R)**
 - **[DeepLearning.AI Data Engineering](https://www.coursera.org/account/accomplishments/professional-cert/GXWHKNCQY08O)**

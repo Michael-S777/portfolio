@@ -14,7 +14,7 @@ To apply my analytical experience achieved across academic and employment operat
   University of Technology, Sydney, Australia (2008 – 2010)
 - **PhD in Economics (Statistics)**,
   Moscow State University of Economics, Statistics and Informatics, Moscow, Russian Federation (2001 – 2004)
-- **Bachelor of Economics (Finance)**,
+- **Bachelor of Economics (Finance) (High Distinction Average)**,
   The National Research University – Higher School of Economics, Moscow, Russian Federation (1996 – 2001)
 
 ---
@@ -25,11 +25,16 @@ To apply my analytical experience achieved across academic and employment operat
 *2014 – Present*
 
 **Responsibilities:**
-- Developing code for large complex projects
+- Developing code for large complex projects with assistance of GitHub Copilot 
 - Using machine learning frameworks to build data models
 - Developing analytics solutions, including data extraction, pre-processing, modeling, evaluation, and visualization to facilitate research project outcomes
 - Interpretation of research findings and preparing reports summarizing the results gained from the research
-- Participation as data scientist / researcher / consultant in the industry-funded research projects
+- Participation as data scientist / researcher / consultant in the industry-funded research projectsm , applying my data analytics skills across various industries (education, finance, and construction):
+•	Price elasticity of demand and willingness to pay project – Boral Limited – 2021-2022
+•	NATA Accreditation Assessment Efforts Model – National Association of Testing Authorities, Australia – 2019
+•	Management Capability Scores Development and Analysis Project – Australian Bureau of Statistics – 2018
+•	Suncorp Group Employee Council project – Suncorp Group Limited – 2013-2014
+
 
 --- 
 ## Certificates

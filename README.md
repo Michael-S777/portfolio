@@ -26,9 +26,9 @@ To apply my analytical experience achieved across academic and employment operat
 
 **Responsibilities:**
 - Developing code for large complex projects with assistance of GitHub Copilot 
-- Using machine learning frameworks to build data models
-- Developing analytics solutions, including data extraction, pre-processing, modeling, evaluation, and visualization to facilitate research project outcomes
-- Interpretation of research findings and preparing reports summarizing the results gained from the research
+- Building data models using machine learning frameworks by utilizing AutoGluon and Hugging Face to improve efficiency and performance
+- Performing exploratory data analysis, interpreting research findings, and preparing reports by utilizing LLMs like ChatGPT and Gemini
+- Teaching subjects: Small Business Management and Accounting and Planning and Control for Small Business Enterprises
 - Participation as data scientist / researcher / consultant in the industry-funded research projectsm , applying my data analytics skills across various industries (education, finance, and construction):
    - Price Elasticity of Demand and Willingness to Pay Project  - *Boral Limited (2021-2022)*
    - NATA Accreditation Assessment Efforts Model - *National Association of Testing Authorities, Australia (2019)*

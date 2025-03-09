@@ -68,9 +68,11 @@ The "Quality Wine Analysis" project aims to predict and assess the quality of wi
 
 ---
 ### Object Detection Using YOLOv5 model in Google Colab
-This project focuses on detecting multiple objects in images using the YOLOv5 object detection model in Google Colab. The model was pre-trained on the COCO dataset, allowing it to identify various objects, including cars, furniture, fruits, and more, without additional training. This project demonstrates how YOLOv5 can be used for real-world object detection, making it applicable to fields like autonomous systems, smart retail, security surveillance, and inventory tracking.
+This project focuses on detecting multiple objects in images using the YOLOv5 object detection model in Google Colab. The model was pre-trained on the COCO dataset, allowing it to identify various objects, including cars, furniture, fruits, and more, without additional training. This project demonstrates how YOLOv5 model can be used for real-world object detection, making it applicable to fields like autonomous systems, smart retail, security surveillance, and inventory tracking.
 
 ![processed_image](https://github.com/user-attachments/assets/b20e94b6-a5fd-4a14-917c-a63c9fca95d1)
+![processed_image_2](https://github.com/user-attachments/assets/d4066ddd-6e25-4591-aaa0-d631b018a489)
+
 
 
 **[View code on Colab](https://colab.research.google.com/drive/1KofFAbshpSBXIBzMqzypi5oUWELDD59S?usp=sharing)**

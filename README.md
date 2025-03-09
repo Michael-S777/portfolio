@@ -67,6 +67,15 @@ The "Quality Wine Analysis" project aims to predict and assess the quality of wi
 **[View code on Colab](https://colab.research.google.com/drive/1icNFHcw1B6Mwi_rgaKRt2QNT6_7mUJWS?usp=sharing)**
 
 ---
+### Object Detection Using YOLOv5 model in Google Colab
+This project focuses on detecting multiple objects in images using the YOLOv5 object detection model in Google Colab. The model was pre-trained on the COCO dataset, allowing it to identify various objects, including cars, furniture, fruits, and more, without additional training. This project demonstrates how YOLOv5 can be used for real-world object detection, making it applicable to fields like autonomous systems, smart retail, security surveillance, and inventory tracking.
+
+![processed_image](https://github.com/user-attachments/assets/b20e94b6-a5fd-4a14-917c-a63c9fca95d1)
+
+
+**[View code on Colab](https://colab.research.google.com/drive/1KofFAbshpSBXIBzMqzypi5oUWELDD59S?usp=sharing)**
+
+---
 ### Black Friday Purchases
 The project aims to assist the organization's management team in analyzing customer purchasing behavior, with a particular emphasis on purchase amounts in relation to gender and other influencing factors. The objective is to determine whether spending patterns differ between male and female customers, particularly examining whether women spend more than men on Black Friday. The project involves comprehensive exploratory data analysis to understand the dataset and uncover meaningful insights. Key steps include data cleaning, identifying unique and missing values, detecting duplicates, and generating statistical summaries. Data visualization is utilized for numerical and categorical features, and actionable insights are derived to better understand customer purchasing behavior and support strategic decision-making.
 

@@ -54,7 +54,7 @@ To apply my analytical experience achieved across academic and employment operat
 - **[NoSQL, Big Data, and Spark Foundations](https://www.coursera.org/account/accomplishments/specialization/AGMONTFA4HAA)**
 - **[Data Visualization with Tableau](https://coursera.org/share/08f83118a1d2b0a88affd7037be171bb)**
 - **[Generative AI for Data Scientists Specialization](https://www.coursera.org/account/accomplishments/specialization/DPUEDK02C6IJ)**
-
+- **[Generative AI Engineering with LLMs](https://www.coursera.org/account/accomplishments/specialization/MUJD5WKHVIQ1)**
 ---
 ## Projects
 

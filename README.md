@@ -53,7 +53,8 @@ To apply my analytical experience achieved across academic and employment operat
 - **[Data Science with Databricks for Data Analysts Specialization](https://coursera.org/share/1833c6ce3e91d225bfd509b8a46cedb6)**
 - **[NoSQL, Big Data, and Spark Foundations](https://www.coursera.org/account/accomplishments/specialization/AGMONTFA4HAA)**
 - **[Data Visualization with Tableau](https://coursera.org/share/08f83118a1d2b0a88affd7037be171bb)**
-- **[Generative AI for Data Scientists Specialization](https://www.coursera.org/account/accomplishments/specialization/DPUEDK02C6IJ)**
+- **[Generative AI for Data Scientists](https://www.coursera.org/account/accomplishments/specialization/DPUEDK02C6IJ)**
+- **[Generative AI for Data Analysts](https://www.coursera.org/account/accomplishments/specialization/1IP6OOPOS59P)**
 - **[Generative AI Engineering with LLMs](https://www.coursera.org/account/accomplishments/specialization/MUJD5WKHVIQ1)**
 - **[IBM Generative AI Engineering](https://www.coursera.org/account/accomplishments/professional-cert/Z2XKKQGW0AC9)**
 

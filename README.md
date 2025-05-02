@@ -16,7 +16,7 @@ To apply my analytical experience achieved across academic and employment operat
   Moscow State University of Economics, Statistics and Informatics, Moscow, Russian Federation (2001 – 2004)
 - **Bachelor of Economics (Finance)** (High Distinction Average),
   The National Research University – Higher School of Economics, Moscow, Russian Federation (1996 – 2001)
-
+ 
 ---
 ## Work Experience
 

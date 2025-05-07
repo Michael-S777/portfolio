@@ -25,7 +25,7 @@ To apply my analytical experience achieved across academic and employment operat
 - Proficient in Python and SQL, with exposure to Spark and cloud-based platforms such as Databricks, Azure, and AWS
 - Strong foundation in statistical modeling, machine learning, and optimisation techniques, with hands-on experience applying these methods to real-world problems
 - Skilled in leveraging large language models (LLMs) such as ChatGPT and Gemini for exploratory data analysis, interpretation of research findings, and reporting
-- Proficient in building interactive dashboards and developing web-based applications to communicate insights and enhance user engagement.
+- Proficient in building interactive dashboards and developing web-based applications to communicate insights and enhance user engagement
 - Experienced across the full data science lifecycle—from model development and evaluation to deployment and monitoring, incorporating MLOps best practices
 - Teaching subjects: Small Business Management and Accounting and Planning and Control for Small Business Enterprises
 - Participation as data scientist / researcher / consultant in the industry-funded research projectsm , applying my data analytics skills across various industries (education, finance, and construction):
@@ -54,6 +54,7 @@ To apply my analytical experience achieved across academic and employment operat
 - **[Data Visualization with Tableau](https://coursera.org/share/08f83118a1d2b0a88affd7037be171bb)**
 - **[Generative AI for Data Scientists](https://www.coursera.org/account/accomplishments/specialization/DPUEDK02C6IJ)**
 - **[Generative AI for Data Analysts](https://www.coursera.org/account/accomplishments/specialization/1IP6OOPOS59P)**
+- **[Generative AI for Educators](https://www.coursera.org/account/accomplishments/specialization/2D6YW6L7W8I3)**
 - **[Generative AI Engineering with LLMs](https://www.coursera.org/account/accomplishments/specialization/MUJD5WKHVIQ1)**
 - **[IBM Generative AI Engineering](https://www.coursera.org/account/accomplishments/professional-cert/Z2XKKQGW0AC9)**
 

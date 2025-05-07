@@ -21,7 +21,7 @@ To apply my analytical experience achieved across academic and employment operat
 *2014 – Present*
 
 **Responsibilities:**
-- Experience building and deploying machine learning models in production using frameworks such as AutoGluon and Hugging Face, with support from tools like GitHub Copilot to accelerate development
+- Experience building and deploying machine learning models using frameworks such as AutoGluon and Hugging Face, with support from tools like GitHub Copilot to accelerate development
 - Proficient in Python and SQL, with exposure to Spark and cloud-based platforms such as Databricks, Azure, and AWS
 - Strong foundation in statistical modeling, machine learning, and optimisation techniques, with hands-on experience applying these methods to real-world problems
 - Skilled in leveraging large language models (LLMs) such as ChatGPT and Gemini for exploratory data analysis, interpretation of research findings, and reporting

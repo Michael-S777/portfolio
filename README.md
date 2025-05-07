@@ -26,7 +26,7 @@ To apply my analytical experience achieved across academic and employment operat
 - Strong foundation in statistical modeling, machine learning, and optimisation techniques, with hands-on experience applying these methods to real-world problems
 - Skilled in leveraging large language models (LLMs) such as ChatGPT and Gemini for exploratory data analysis, interpretation of research findings, and reporting
 - Proficient in building interactive dashboards and developing web-based applications to communicate insights and enhance user engagement
-- Experienced across the full data science lifecycle—from model development and evaluation to deployment and monitoring, incorporating MLOps best practices
+- Experienced across the full data science lifecycle - from model development and evaluation to deployment and monitoring, incorporating MLOps best practices
 - Teaching subjects: Small Business Management and Accounting and Planning and Control for Small Business Enterprises
 - Participation as data scientist / researcher / consultant in the industry-funded research projectsm , applying my data analytics skills across various industries (education, finance, and construction):
    - Price Elasticity of Demand and Willingness to Pay Project  - *Boral Limited (2021-2022)*

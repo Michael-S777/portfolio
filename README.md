@@ -42,13 +42,13 @@ To apply my analytical experience achieved across academic and employment operat
 - **[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R)**
 - **[DeepLearning.AI Data Engineering](https://www.coursera.org/account/accomplishments/professional-cert/GXWHKNCQY08O)**
 - **[IBM Full Stack Software Development](https://www.coursera.org/account/accomplishments/professional-cert/6J9WSUDD7HNJ)**
+- **[Data Science with Databricks for Data Analysts Specialization](https://coursera.org/share/1833c6ce3e91d225bfd509b8a46cedb6)**
 - **[Data Engineer in Python](https://www.datacamp.com/statement-of-accomplishment/track/9d517315d67ac2e34c5765717fb7f560d85d69e8?raw=1)**
 - **[Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/29NQSAB3ZAZ7)**
 - **[Learn SQL Basics for Data Science](https://www.coursera.org/account/accomplishments/specialization/7JZT6H3TH4HK)**
 - **[PostgreSQL for Everybody](https://www.coursera.org/account/accomplishments/specialization/743399HD1JT7)**
 - **[Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/N3P27B9BC4G7)**
 - **[Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/1R860J8ZVAHN)**
-- **[Data Science with Databricks for Data Analysts Specialization](https://coursera.org/share/1833c6ce3e91d225bfd509b8a46cedb6)**
 - **[NoSQL, Big Data, and Spark Foundations](https://www.coursera.org/account/accomplishments/specialization/AGMONTFA4HAA)**
 - **[Data Visualization with Tableau](https://coursera.org/share/08f83118a1d2b0a88affd7037be171bb)**
 - **[Generative AI for Data Scientists](https://www.coursera.org/account/accomplishments/specialization/DPUEDK02C6IJ)**

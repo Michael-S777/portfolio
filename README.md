@@ -43,7 +43,7 @@ To apply my analytical experience achieved across academic and employment operat
 - **[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R)**
 - **[DeepLearning.AI Data Engineering](https://www.coursera.org/account/accomplishments/professional-cert/GXWHKNCQY08O)**
 - **[IBM Full Stack Software Development](https://www.coursera.org/account/accomplishments/professional-cert/6J9WSUDD7HNJ)**
-- **[Data Science with Databricks for Data Analysts Specialization](https://coursera.org/share/1833c6ce3e91d225bfd509b8a46cedb6)**
+- **[Data Science with Databricks for Data Analysts](https://coursera.org/share/1833c6ce3e91d225bfd509b8a46cedb6)**
 - **[Data Engineer in Python](https://www.datacamp.com/statement-of-accomplishment/track/9d517315d67ac2e34c5765717fb7f560d85d69e8?raw=1)**
 - **[Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/29NQSAB3ZAZ7)**
 - **[Learn SQL Basics for Data Science](https://www.coursera.org/account/accomplishments/specialization/7JZT6H3TH4HK)**

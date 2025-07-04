@@ -90,15 +90,6 @@ This project focuses on detecting multiple objects in images using the YOLOv5 ob
 **[View code on Colab](https://colab.research.google.com/drive/1KofFAbshpSBXIBzMqzypi5oUWELDD59S?usp=sharing)**
 
 ---
-### Black Friday Purchases
-The project aims to assist the organization's management team in analyzing customer purchasing behavior, with a particular emphasis on purchase amounts in relation to gender and other influencing factors. The objective is to determine whether spending patterns differ between male and female customers, particularly examining whether women spend more than men on Black Friday. The project involves comprehensive exploratory data analysis to understand the dataset and uncover meaningful insights. Key steps include data cleaning, identifying unique and missing values, detecting duplicates, and generating statistical summaries. Data visualization is utilized for numerical and categorical features, and actionable insights are derived to better understand customer purchasing behavior and support strategic decision-making.
-
-![image](https://github.com/user-attachments/assets/3b1b5fa7-114c-4a50-a2ec-81cd8d861ae5)
-
-
-**[View code on Colab](https://colab.research.google.com/drive/1DCYDU0KGvloirSs0LgbIYlSirrZoUnkW?usp=sharing)**
-
----
 ### Hate speech detection task
 Hate speech detection involves the automated identification of whether a piece of text contains content that is hateful or offensive. This task is crucial for maintaining safe and respectful online communities by filtering out harmful language. For this project, I developed a sophisticated classifier using PyTorch and a pre-trained BERT (Bidirectional Encoder Representations from Transformers) model, which is known for its effectiveness in natural language understanding.
 The core of the project was to leverage the power of BERT to understand the context and nuances of language in detecting hate speech. BERT's pre-trained capabilities allow it to comprehend and process text efficiently, making it ideal for this classification task. Using PyTorch, a popular deep learning framework, provided the flexibility and efficiency needed to train and fine-tune the model to achieve high accuracy.
@@ -109,6 +100,15 @@ The core of the project was to leverage the power of BERT to understand the cont
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 **[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)**
+
+---
+### Black Friday Purchases
+The project aims to assist the organization's management team in analyzing customer purchasing behavior, with a particular emphasis on purchase amounts in relation to gender and other influencing factors. The objective is to determine whether spending patterns differ between male and female customers, particularly examining whether women spend more than men on Black Friday. The project involves comprehensive exploratory data analysis to understand the dataset and uncover meaningful insights. Key steps include data cleaning, identifying unique and missing values, detecting duplicates, and generating statistical summaries. Data visualization is utilized for numerical and categorical features, and actionable insights are derived to better understand customer purchasing behavior and support strategic decision-making.
+
+![image](https://github.com/user-attachments/assets/3b1b5fa7-114c-4a50-a2ec-81cd8d861ae5)
+
+
+**[View code on Colab](https://colab.research.google.com/drive/1DCYDU0KGvloirSs0LgbIYlSirrZoUnkW?usp=sharing)**
 
 ---
 ### Python Project for Data Engineering

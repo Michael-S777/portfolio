@@ -16,7 +16,7 @@ To apply my analytical experience achieved across academic and employment operat
 ---
 ## Work Experience
 
-### Data Scientist & Researcher
+### Senior Data Scientist & Researcher
 **University of Technology, Sydney, Australia**  
 *2014 – Present*
 
@@ -29,6 +29,7 @@ To apply my analytical experience achieved across academic and employment operat
 - Overseeing the full data science lifecycle from model development and evaluation to deployment and monitoring while following MLOps best practices
 - Teaching subjects: Small Business Management and Accounting and Planning and Control for Small Business Enterprises
 - Participation as data scientist / researcher / consultant in the industry-funded research projects, applying data analytics skills across various industries (education, finance, and construction):
+   - Household Wealth Inequality Modelling - *Oxfam Australia (2025)*
    - Price Elasticity of Demand and Willingness to Pay Project  - *Boral Limited (2021-2022)*
    - NATA Accreditation Assessment Efforts Model - *National Association of Testing Authorities, Australia (2019)*
   - Management Capability Scores Development and Analysis Project - *Australian Bureau of Statistics (2018)*

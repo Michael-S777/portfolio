@@ -78,7 +78,7 @@ Built an interactive chatbot that can answer questions about any PDF file. The s
 ### AI data engineer librarian project
 This project focuses on building a structured and governed data layer to support AI systems. Instead of developing a chatbot interface, I designed a document library that organises business documents using metadata such as source, ownership, version, and trust level. The system validates documents based on predefined rules, splits approved content into searchable chunks, and enables retrieval of relevant information in response to user queries. Each result includes full lineage back to the original document, ensuring transparency and reliability. This approach demonstrates how to make AI systems more trustworthy by controlling the quality and structure of the data they use.
 
-![image](<img width="1536" height="1024" alt="AI-powered document library flowchart" src="https://github.com/user-attachments/assets/ea5a302e-ed06-40fe-ad56-1cd2fbf1a4a4" />)
+![image]("https://github.com/user-attachments/assets/ea5a302e-ed06-40fe-ad56-1cd2fbf1a4a4")
 
 
 **[View code on GitHub](https://github.com/Michael-S777/ai-data-engineer-librarian-project)**

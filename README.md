@@ -69,7 +69,7 @@ To apply my analytical experience achieved across academic and employment operat
 ### PDF Chatbot with AI-Powered Question Answering
 Built an interactive chatbot that can answer questions about any PDF file. The system reads and breaks down the document into smaller parts, finds the most relevant sections using a smart matching technique, and then uses a local AI model to generate natural language answers. I used free, open-source tools and created a simple web interface so users can upload a file and ask questions directly. This project is useful for working with sensitive documents or in settings where internet access is limited.
 
-![image](https://github.com/user-attachments/assets/f54f9650-06e6-4e7e-8a3b-18ae9bd8e45b")
+![image](https://github.com/user-attachments/assets/f54f9650-06e6-4e7e-8a3b-18ae9bd8e45b)
 
 **[View code on Colab](https://colab.research.google.com/drive/1v66r8dLCSCLakn_BPLIEDPlp6xnkN9xk?usp=sharing)**
 
@@ -78,7 +78,7 @@ Built an interactive chatbot that can answer questions about any PDF file. The s
 ### AI data engineer librarian project
 This project focuses on building a structured and governed data layer to support AI systems. Instead of developing a chatbot interface, I designed a document library that organises business documents using metadata such as source, ownership, version, and trust level. The system validates documents based on predefined rules, splits approved content into searchable chunks, and enables retrieval of relevant information in response to user queries. Each result includes full lineage back to the original document, ensuring transparency and reliability. This approach demonstrates how to make AI systems more trustworthy by controlling the quality and structure of the data they use.
 
-![image]("https://github.com/user-attachments/assets/ea5a302e-ed06-40fe-ad56-1cd2fbf1a4a4")
+![image](https://github.com/user-attachments/assets/ea5a302e-ed06-40fe-ad56-1cd2fbf1a4a4)
 
 
 **[View code on GitHub](https://github.com/Michael-S777/ai-data-engineer-librarian-project)**

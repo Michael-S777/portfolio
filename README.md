@@ -24,7 +24,7 @@ To apply my analytical experience gained through academic and professional roles
 - Building and deploying machine learning models using frameworks such as AutoGluon and Hugging Face, supported by tools like GitHub Copilot to accelerate development
 - Using Python and SQL for data manipulation and analysis, with exposure to Spark and cloud-based platforms including Databricks, Azure, and AWS
 - Applying statistical modeling, machine learning, and optimisation techniques to address real-world business and research problems
-- Utilising large language models (LLMs) such as ChatGPT and Gemini for exploratory data analysis, interpretation of findings, and automated reporting
+- Utilising large language models (LLMs) such as ChatGPT, Claude, and Gemini for exploratory data analysis, interpretation of findings, and automated reporting
 - Developing interactive dashboards and web-based applications to communicate insights and enhance user engagement
 - Overseeing the full data science lifecycle from model development and evaluation to deployment and monitoring while following MLOps best practices
 - Teaching subjects: Small Business Management and Accounting and Planning and Control for Small Business Enterprises

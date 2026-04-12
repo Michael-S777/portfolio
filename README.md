@@ -3,7 +3,7 @@
 
 
 ## Career Objective
-To apply my analytical experience achieved across academic and employment operations, and to work in environments which strive for continuous improvement to meet business needs now and in the future.
+To apply my analytical experience gained through academic and professional roles to help organisations achieve continuous improvement and meet evolving business needs now and in the future.
 
 ## Education & Professional Development
 

@@ -83,6 +83,16 @@ This project focuses on building a structured and governed data layer to support
 
 ---
 
+---
+
+### Local AI Downloads Organizer
+This project is a Python-based file organisation tool that automatically structures files in a Downloads folder using a hybrid approach combining rule-based logic and a local open-source language model (LLM). Files are first classified using extensions and keyword rules, while more ambiguous cases are intelligently categorised using a locally hosted model via Ollama. The system includes a preview (dry-run) mode, safe file handling to prevent overwrites, and detailed logging of all actions for traceability. This project demonstrates practical skills in Python automation, system design, and integrating LLMs into real-world workflows, with a strong focus on usability, reliability, and working entirely offline.
+![image](https://github.com/user-attachments/assets/327104b2-4b18-4692-b75b-5110e00b955f)
+
+**[View code on GitHub](https://github.com/Michael-S777/local-ai-downloads-organizer)**
+
+---
+
 ### Wine quality analysis
 The "Quality Wine Analysis" project uses machine learning to predict wine quality based on different chemical and physical characteristics in the dataset. The work begins with exploring the data through summaries and visualizations to better understand the features and identify patterns or relationships that may affect wine quality. After that, the data is cleaned and prepared for modelling, including steps such as handling missing values, scaling variables, and encoding categories where needed. Several machine learning models are then trained and compared to find the best approach for predicting wine quality. Their performance is evaluated using common regression measures such as Mean Squared Error and R-squared. Overall, the project shows how data analysis and machine learning can be used to generate useful insights and support more informed decision-making in the wine industry.
 

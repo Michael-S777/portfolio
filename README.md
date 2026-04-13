@@ -75,21 +75,20 @@ This project is an offline AI system that allows users to upload PDF documents, 
 
 ---
 
+### Local AI Downloads Organizer
+This project is a Python-based file organisation tool that automatically structures files in a Downloads folder using a hybrid approach combining rule-based logic and a local open-source language model (LLM). Files are first classified using extensions and keyword rules, while more ambiguous cases are intelligently categorised using a locally hosted model via Ollama. The system includes a preview (dry-run) mode, safe file handling to prevent overwrites, and detailed logging of all actions for traceability. This project demonstrates practical skills in Python automation, system design, and integrating LLMs into real-world workflows, with a strong focus on usability, reliability, and working entirely offline.
+
+![image](https://github.com/user-attachments/assets/327104b2-4b18-4692-b75b-5110e00b955f)
+
+**[View code on GitHub](https://github.com/Michael-S777/local-ai-downloads-organizer)**
+
+---
+
 ### AI data engineer librarian project
 This project focuses on building a structured and governed data layer to support AI systems. Instead of developing a chatbot interface, I designed a document library that organises business documents using metadata such as source, ownership, version, and trust level. The system validates documents based on predefined rules, splits approved content into searchable chunks, and enables retrieval of relevant information in response to user queries. Each result includes full lineage back to the original document, ensuring transparency and reliability. This approach demonstrates how to make AI systems more trustworthy by controlling the quality and structure of the data they use.
 ![image](https://github.com/user-attachments/assets/9cf76e7a-dbb8-4a65-97c1-151247144e38)
 
 **[View code on GitHub](https://github.com/Michael-S777/ai-data-engineer-librarian-project)**
-
----
-
----
-
-### Local AI Downloads Organizer
-This project is a Python-based file organisation tool that automatically structures files in a Downloads folder using a hybrid approach combining rule-based logic and a local open-source language model (LLM). Files are first classified using extensions and keyword rules, while more ambiguous cases are intelligently categorised using a locally hosted model via Ollama. The system includes a preview (dry-run) mode, safe file handling to prevent overwrites, and detailed logging of all actions for traceability. This project demonstrates practical skills in Python automation, system design, and integrating LLMs into real-world workflows, with a strong focus on usability, reliability, and working entirely offline.
-![image](https://github.com/user-attachments/assets/327104b2-4b18-4692-b75b-5110e00b955f)
-
-**[View code on GitHub](https://github.com/Michael-S777/local-ai-downloads-organizer)**
 
 ---
 

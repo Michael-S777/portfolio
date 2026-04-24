@@ -47,7 +47,7 @@ To apply my analytical experience gained through academic and professional roles
 - **[Data Structures and Algorithms](https://coursera.org/share/452f41c5ad2820ca01fc209b2b3efa22)**
 - **[IBM Full Stack Software Development](https://www.coursera.org/account/accomplishments/professional-cert/6J9WSUDD7HNJ)**
 - **[Snowflake Data Engineering](https://coursera.org/share/51c3bcfb2b731a2e7f3ac62e1cf0d9cf)**
-- **[Data Science with Databricks for Data Analysts](https://coursera.org/share/1833c6ce3e91d225bfd509b8a46cedb6)**
+- **[Data Science with Databricks for Data Analysts](https://www.coursera.org/account/accomplishments/specialization/certificate/WU766UTSP1AY)**
 - **[Data Engineer in Python](https://www.datacamp.com/statement-of-accomplishment/track/9d517315d67ac2e34c5765717fb7f560d85d69e8?raw=1)**
 - **[Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/29NQSAB3ZAZ7)**
 - **[Learn SQL Basics for Data Science](https://www.coursera.org/account/accomplishments/specialization/7JZT6H3TH4HK)**

@@ -38,30 +38,30 @@ To apply my analytical experience gained through academic and professional roles
 
 --- 
 ## Certificates
-- **[IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/SP56FSEAQ5ZA)**
-- **[IBM AI Engineering](https://coursera.org/share/82db3e63c5db90cb21558c18d2fc80f8)**
-- **[Generative AI with Large Language Models](https://github.com/Michael-S777/Python-exercises/blob/main/Generative%20AI%20for%20Software%20Development.png)** 
-- **[Machine Learning](https://www.coursera.org/account/accomplishments/specialization/MEBN2FNAVPZL)**
-- **[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R)**
-- **[DeepLearning.AI Data Engineering](https://www.coursera.org/account/accomplishments/professional-cert/GXWHKNCQY08O)**
-- **[Data Structures and Algorithms](https://coursera.org/share/452f41c5ad2820ca01fc209b2b3efa22)**
-- **[IBM Full Stack Software Development](https://www.coursera.org/account/accomplishments/professional-cert/6J9WSUDD7HNJ)**
-- **[Snowflake Data Engineering](https://coursera.org/share/51c3bcfb2b731a2e7f3ac62e1cf0d9cf)**
-- **[Data Science with Databricks for Data Analysts](https://www.coursera.org/account/accomplishments/specialization/certificate/WU766UTSP1AY)**
-- **[Data Engineer in Python](https://www.datacamp.com/statement-of-accomplishment/track/9d517315d67ac2e34c5765717fb7f560d85d69e8?raw=1)**
-- **[Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/29NQSAB3ZAZ7)**
-- **[Learn SQL Basics for Data Science](https://www.coursera.org/account/accomplishments/specialization/7JZT6H3TH4HK)**
-- **[PostgreSQL for Everybody](https://www.coursera.org/account/accomplishments/specialization/743399HD1JT7)**
-- **[Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/N3P27B9BC4G7)**
-- **[Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/account/accomplishments/specialization/1R860J8ZVAHN)**
-- **[NoSQL, Big Data, and Spark Foundations](https://www.coursera.org/account/accomplishments/specialization/AGMONTFA4HAA)**
-- **[Data Visualization with Tableau](https://coursera.org/share/08f83118a1d2b0a88affd7037be171bb)**
-- **[Generative AI for Data Scientists](https://www.coursera.org/account/accomplishments/specialization/DPUEDK02C6IJ)**
-- **[Generative AI for Data Analysts](https://www.coursera.org/account/accomplishments/specialization/1IP6OOPOS59P)**
-- **[Generative AI for Educators](https://www.coursera.org/account/accomplishments/specialization/2D6YW6L7W8I3)**
-- **[Generative AI Engineering with LLMs](https://www.coursera.org/account/accomplishments/specialization/MUJD5WKHVIQ1)**
-- **[Generative AI for Software Development](https://github.com/Michael-S777/Python-exercises/blob/main/Generative%20AI%20with%20Large%20Language%20Models.png)**
-- **[IBM Generative AI Engineering](https://www.coursera.org/account/accomplishments/professional-cert/Z2XKKQGW0AC9)**
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/SP56FSEAQ5ZA" target="_blank" rel="noopener noreferrer"><strong>IBM Data Science</strong></a>
+- <a href="https://coursera.org/share/82db3e63c5db90cb21558c18d2fc80f8" target="_blank" rel="noopener noreferrer"><strong>IBM AI Engineering</strong></a>
+- <a href="https://github.com/Michael-S777/Python-exercises/blob/main/Generative%20AI%20for%20Software%20Development.png" target="_blank" rel="noopener noreferrer"><strong>Generative AI with Large Language Models</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/MEBN2FNAVPZL" target="_blank" rel="noopener noreferrer"><strong>Machine Learning</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R" target="_blank" rel="noopener noreferrer"><strong>Deep Learning</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/GXWHKNCQY08O" target="_blank" rel="noopener noreferrer"><strong>DeepLearning.AI Data Engineering</strong></a>
+- <a href="https://coursera.org/share/452f41c5ad2820ca01fc209b2b3efa22" target="_blank" rel="noopener noreferrer"><strong>Data Structures and Algorithms</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/6J9WSUDD7HNJ" target="_blank" rel="noopener noreferrer"><strong>IBM Full Stack Software Development</strong></a>
+- <a href="https://coursera.org/share/51c3bcfb2b731a2e7f3ac62e1cf0d9cf" target="_blank" rel="noopener noreferrer"><strong>Snowflake Data Engineering</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/WU766UTSP1AY" target="_blank" rel="noopener noreferrer"><strong>Data Science with Databricks for Data Analysts</strong></a>
+- <a href="https://www.datacamp.com/statement-of-accomplishment/track/9d517315d67ac2e34c5765717fb7f560d85d69e8?raw=1" target="_blank" rel="noopener noreferrer"><strong>Data Engineer in Python</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/29NQSAB3ZAZ7" target="_blank" rel="noopener noreferrer"><strong>Data Science Fundamentals with Python and SQL</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/7JZT6H3TH4HK" target="_blank" rel="noopener noreferrer"><strong>Learn SQL Basics for Data Science</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/743399HD1JT7" target="_blank" rel="noopener noreferrer"><strong>PostgreSQL for Everybody</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/N3P27B9BC4G7" target="_blank" rel="noopener noreferrer"><strong>Python for Everybody</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/1R860J8ZVAHN" target="_blank" rel="noopener noreferrer"><strong>Python, Bash and SQL Essentials for Data Engineering</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/AGMONTFA4HAA" target="_blank" rel="noopener noreferrer"><strong>NoSQL, Big Data, and Spark Foundations</strong></a>
+- <a href="https://coursera.org/share/08f83118a1d2b0a88affd7037be171bb" target="_blank" rel="noopener noreferrer"><strong>Data Visualization with Tableau</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/DPUEDK02C6IJ" target="_blank" rel="noopener noreferrer"><strong>Generative AI for Data Scientists</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/1IP6OOPOS59P" target="_blank" rel="noopener noreferrer"><strong>Generative AI for Data Analysts</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/2D6YW6L7W8I3" target="_blank" rel="noopener noreferrer"><strong>Generative AI for Educators</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/MUJD5WKHVIQ1" target="_blank" rel="noopener noreferrer"><strong>Generative AI Engineering with LLMs</strong></a>
+- <a href="https://github.com/Michael-S777/Python-exercises/blob/main/Generative%20AI%20with%20Large%20Language%20Models.png" target="_blank" rel="noopener noreferrer"><strong>Generative AI for Software Development</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/Z2XKKQGW0AC9" target="_blank" rel="noopener noreferrer"><strong>IBM Generative AI Engineering</strong></a>
 
 ---
 ## Projects

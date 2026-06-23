@@ -84,6 +84,15 @@ This project is a Python-based file organisation tool that automatically structu
 
 ---
 
+### Student Performance Analytics project
+Built an end-to-end analytics engineering pipeline using dbt Core, DuckDB, and Python to model student academic performance data across a three-layer architecture - staging, intermediate, and marts. The pipeline ingests raw CSV data covering students, courses, enrolments, and weighted assessment grades, transforming it through modular SQL models into two business-ready outputs: a student dimension table with academic standing classification (High Distinction through At Risk) and an enrolments fact table for BI reporting. The project applies Australian grading standards, calculates weighted assessment scores across assignments, midterm and final exams, and flags at-risk students based on average performance. Data quality is enforced through automated schema tests covering uniqueness, referential integrity, and accepted values, with the full pipeline running on every code push via GitHub Actions CI/CD. SQL consistency is maintained through SQLFluff linting and pre-commit hooks.
+
+<img width="1415" height="877" alt="Student Performance Analytics" src="https://github.com/user-attachments/assets/75d17a4d-f8a0-4c4e-be46-095a1fef6e71" />
+
+**[View code on GitHub](https://github.com/Michael-S777/student-performance-analytics)**
+
+---
+
 ### AI data engineer librarian project
 This project focuses on building a structured and governed data layer to support AI systems. Instead of developing a chatbot interface, I designed a document library that organises business documents using metadata such as source, ownership, version, and trust level. The system validates documents based on predefined rules, splits approved content into searchable chunks, and enables retrieval of relevant information in response to user queries. Each result includes full lineage back to the original document, ensuring transparency and reliability. This approach demonstrates how to make AI systems more trustworthy by controlling the quality and structure of the data they use.
 ![image](https://github.com/user-attachments/assets/9cf76e7a-dbb8-4a65-97c1-151247144e38)

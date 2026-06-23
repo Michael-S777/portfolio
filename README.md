@@ -87,7 +87,7 @@ This project is a Python-based file organisation tool that automatically structu
 ### Student Performance Analytics project
 Built an end-to-end analytics engineering pipeline using dbt Core, DuckDB, and Python to model student academic performance data across a three-layer architecture - staging, intermediate, and marts. The pipeline ingests raw CSV data covering students, courses, enrolments, and weighted assessment grades, transforming it through modular SQL models into two business-ready outputs: a student dimension table with academic standing classification (High Distinction through At Risk) and an enrolments fact table for BI reporting. The project applies Australian grading standards, calculates weighted assessment scores across assignments, midterm and final exams, and flags at-risk students based on average performance. Data quality is enforced through automated schema tests covering uniqueness, referential integrity, and accepted values, with the full pipeline running on every code push via GitHub Actions CI/CD. SQL consistency is maintained through SQLFluff linting and pre-commit hooks.
 
-<img width="1415" height="877" alt="Student Performance Analytics" src="https://github.com/user-attachments/assets/75d17a4d-f8a0-4c4e-be46-095a1fef6e71" />
+![image](https://github.com/user-attachments/assets/7ed604df-385d-46c9-9778-290848154609)
 
 **[View code on GitHub](https://github.com/Michael-S777/student-performance-analytics)**
 

@@ -44,6 +44,7 @@ To apply my analytical experience gained through academic and professional roles
 - <a href="https://www.coursera.org/account/accomplishments/specialization/MEBN2FNAVPZL" target="_blank" rel="noopener noreferrer"><strong>Machine Learning</strong></a>
 - <a href="https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R" target="_blank" rel="noopener noreferrer"><strong>Deep Learning</strong></a>
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/GXWHKNCQY08O" target="_blank" rel="noopener noreferrer"><strong>DeepLearning.AI Data Engineering</strong></a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/DZ4ZKN5RH2S7" target="_blank" rel="noopener noreferrer"><strong>IBM RAG and Agentic AI</strong></a> 
 - <a href="https://coursera.org/share/452f41c5ad2820ca01fc209b2b3efa22" target="_blank" rel="noopener noreferrer"><strong>Data Structures and Algorithms</strong></a>
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/6J9WSUDD7HNJ" target="_blank" rel="noopener noreferrer"><strong>IBM Full Stack Software Development</strong></a>
 - <a href="https://coursera.org/share/51c3bcfb2b731a2e7f3ac62e1cf0d9cf" target="_blank" rel="noopener noreferrer"><strong>Snowflake Data Engineering</strong></a>

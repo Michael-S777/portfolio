@@ -60,7 +60,7 @@ To apply my analytical experience gained through academic and professional roles
 - <a href="https://www.coursera.org/account/accomplishments/specialization/1IP6OOPOS59P" target="_blank" rel="noopener noreferrer"><strong>Generative AI for Data Analysts</strong></a>
 - <a href="https://www.coursera.org/account/accomplishments/specialization/2D6YW6L7W8I3" target="_blank" rel="noopener noreferrer"><strong>Generative AI for Educators</strong></a>
 - <a href="https://www.coursera.org/account/accomplishments/specialization/MUJD5WKHVIQ1" target="_blank" rel="noopener noreferrer"><strong>Generative AI Engineering with LLMs</strong></a>
-- <a href="https://github.com/Michael-S777/Python-exercises/blob/main/Generative%20AI%20with%20Large%20Language%20Models.png" https://github.com/Michael-S777/Python-exercises/blob/main/Generative%20AI%20for%20Software%20Development.png target="_blank" rel="noopener noreferrer"><strong>Generative AI for Software Development</strong></a>
+- <a href="https://github.com/Michael-S777/Python-exercises/blob/main/Generative%20AI%20for%20Software%20Development.png" target="_blank" rel="noopener noreferrer"><strong>Generative AI for Software Development</strong></a>
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/Z2XKKQGW0AC9" target="_blank" rel="noopener noreferrer"><strong>IBM Generative AI Engineering</strong></a>
 
 ---

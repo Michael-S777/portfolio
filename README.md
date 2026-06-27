@@ -9,9 +9,9 @@ To apply my analytical experience gained through academic and professional roles
 
 - **PhD degree in Accounting & Taxation**, University of Technology, Sydney, Australia (2021 - 2025)
 - **CPA Program**,
-  CPA Australia, Sydney, Australia (2012 – 2015)
+  CPA Australia, Sydney, Australia
 - **Master of Professional Accounting** (Distinction average),
-  University of Technology, Sydney, Australia (2008 – 2010)
+  University of Technology, Sydney, Australia
  
 ---
 ## Work Experience

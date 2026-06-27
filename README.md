@@ -40,7 +40,8 @@ To apply my analytical experience gained through academic and professional roles
 ## Certificates
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/SP56FSEAQ5ZA" target="_blank" rel="noopener noreferrer"><strong>IBM Data Science</strong></a>
 - <a href="https://coursera.org/share/82db3e63c5db90cb21558c18d2fc80f8" target="_blank" rel="noopener noreferrer"><strong>IBM AI Engineering</strong></a>
-- <a href="https://github.com/Michael-S777/Python-exercises/blob/main/Generative%20AI%20for%20Software%20Development.png" target="_blank" rel="noopener noreferrer"><strong>Generative AI with Large Language Models</strong></a>
+- <img width="1600" height="1200" alt="Generative AI with Large Language Models" src="https://github.com/user-attachments/assets/565bda65-1d9f-41c8-86df-11dcb5c30088" />
+ target="_blank" rel="noopener noreferrer"><strong>Generative AI with Large Language Models</strong></a>
 - <a href="https://www.coursera.org/account/accomplishments/specialization/MEBN2FNAVPZL" target="_blank" rel="noopener noreferrer"><strong>Machine Learning</strong></a>
 - <a href="https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R" target="_blank" rel="noopener noreferrer"><strong>Deep Learning</strong></a>
 - <a href="https://www.coursera.org/account/accomplishments/professional-cert/GXWHKNCQY08O" target="_blank" rel="noopener noreferrer"><strong>DeepLearning.AI Data Engineering</strong></a>

@@ -1,0 +1,203 @@
+# All the content of the portfolio page. Edit this file, commit and push: GitHub Pages rebuilds the site.
+# Optional links are hidden until you fill them in (see "links" below).
+# Project images: put files in assets/img/ (ideally WebP, about 1100 px wide) and write "/assets/img/name.webp".
+
+profile:
+  name: "Michael S"
+  title: "Senior Data Scientist & Researcher"
+  summary: >-
+    Over a decade of data science and applied research at UTS Business School. I combine a strong academic
+    background in statistics with machine learning, AI and advanced analytics to build data-driven solutions
+    that turn data into actionable insights and support strategic business outcomes.
+  location: "Sydney, Australia"
+
+links:
+  github: "https://github.com/Michael-S777"
+  linkedin: ""          # e.g. https://www.linkedin.com/in/your-name  (shown only when filled in)
+  email: ""             # e.g. name@example.com                        (shown only when filled in)
+  cv: ""                # link to a CV PDF, e.g. /portfolio/assets/cv.pdf (shown only when filled in)
+  scholar: ""           # Google Scholar profile                       (shown only when filled in)
+
+highlights:
+  - value: "10+ years"
+    label: "data science & applied research"
+  - value: "6"
+    label: "industry-funded research projects"
+  - value: "2 PhDs"
+    label: "plus CPA Program"
+  - value: "25"
+    label: "professional certificates"
+
+skills:
+  - group: "Programming & statistics"
+    entries: ["Python", "SQL", "R", "STATA", "SAS"]
+  - group: "Machine learning & AI"
+    entries: ["PyTorch", "Hugging Face", "BERT", "AutoGluon", "LLMs (ChatGPT, Claude, Gemini)", "RAG", "Ollama"]
+  - group: "Data engineering & cloud"
+    entries: ["Spark", "Databricks", "Azure", "AWS", "dbt", "DuckDB", "ETL", "GitHub Actions"]
+  - group: "Visualisation"
+    entries: ["Tableau", "Power BI", "Gephi", "Dashboards & web apps"]
+
+experience:
+  - role: "Senior Data Scientist & Researcher"
+    organisation: "University of Technology Sydney (UTS)"
+    period: "2015 - Present"
+    points:
+      - "Build and deploy machine learning models with frameworks such as AutoGluon and Hugging Face, using GitHub Copilot to accelerate development."
+      - "Use Python and SQL for data manipulation and analysis, with exposure to Spark and cloud platforms including Databricks, Azure and AWS."
+      - "Apply statistical modelling, machine learning and optimisation to real-world business and research problems."
+      - "Use large language models (ChatGPT, Claude, Gemini) for exploratory data analysis, interpretation of findings and automated reporting."
+      - "Develop interactive dashboards and web applications to communicate insights."
+      - "Oversee the full data science lifecycle - development, evaluation, deployment and monitoring - following MLOps practices."
+    teaching: "Small Business Management; Accounting and Planning and Control for Small Business Enterprises"
+
+research_intro: >-
+  Industry-funded research projects in which I worked as data scientist, researcher or consultant, applying
+  data analytics across education, finance and construction.
+research:
+  - title: "Household Wealth Inequality Modelling"
+    partner: "Oxfam Australia"
+    year: "2025"
+  - title: "Price Elasticity of Demand and Willingness to Pay"
+    partner: "Boral Limited"
+    year: "2021-2022"
+  - title: "NATA Accreditation Assessment Efforts Model"
+    partner: "National Association of Testing Authorities, Australia"
+    year: "2019"
+  - title: "Management Capability Scores - Development and Analysis"
+    partner: "Australian Bureau of Statistics"
+    year: "2018"
+  - title: "Australia's International Business Survey"
+    partner: "Export Council of Australia"
+    year: "2017"
+  - title: "Suncorp Group Employee Council Project"
+    partner: "Suncorp Group Limited"
+    year: "2013-2014"
+
+projects:
+  - title: "Offline PDF Chatbot & Summariser"
+    summary: >-
+      Upload PDF documents, ask questions about them and get concise summaries - entirely offline. Text is
+      extracted and split into sections, the most relevant passages are retrieved for each question (RAG), and a
+      local language model writes the answer. No internet access or API keys needed, which suits sensitive
+      documents.
+    image: "/assets/img/pdf-chatbot.webp"   # optimised copy (original: github.com/user-attachments/assets/519c4bfb-0a8a-43f1-b731-6792e56d78fa)
+    image_alt: "Diagram of the offline PDF chatbot: PDF upload, retrieval and a local language model"
+    tags: ["Python", "RAG", "Local LLM", "Document processing"]
+    link: "https://github.com/Michael-S777/Offline-RAG-PDF-chatbot-summarizer"
+    link_label: "Code on GitHub"
+  - title: "Student Performance Analytics Pipeline"
+    summary: >-
+      End-to-end analytics engineering pipeline modelling student performance through staging, intermediate and
+      mart layers. Produces a student dimension with academic standing (High Distinction to At Risk) and an
+      enrolments fact table, applying Australian grading standards and weighted assessments. Data quality is
+      enforced by automated tests, with CI on every push, SQLFluff linting and pre-commit hooks.
+    image: "/assets/img/student-analytics.webp"   # optimised copy (original: github.com/user-attachments/assets/7ed604df-385d-46c9-9778-290848154609)
+    image_alt: "Student performance analytics pipeline from raw CSV files to business-ready tables"
+    tags: ["dbt Core", "DuckDB", "Python", "SQL", "GitHub Actions", "SQLFluff"]
+    link: "https://github.com/Michael-S777/student-performance-analytics"
+    link_label: "Code on GitHub"
+  - title: "AI Data Engineer Librarian"
+    summary: >-
+      A governed document library that makes AI systems more trustworthy. Business documents carry metadata
+      (source, owner, version, trust level), are validated against rules, split into searchable chunks and
+      retrieved with full lineage back to the original document.
+    image: "/assets/img/ai-librarian.webp"   # optimised copy (original: github.com/user-attachments/assets/9cf76e7a-dbb8-4a65-97c1-151247144e38)
+    image_alt: "Document library workflow: validation, chunking, retrieval and lineage"
+    tags: ["Python", "Data governance", "Metadata", "Retrieval"]
+    link: "https://github.com/Michael-S777/ai-data-engineer-librarian-project"
+    link_label: "Code on GitHub"
+  - title: "Local AI Downloads Organiser"
+    summary: >-
+      Automatically organises a Downloads folder with a hybrid approach: extension and keyword rules first, and a
+      locally hosted language model (via Ollama) for ambiguous files. Includes a dry-run preview, safe file
+      handling that never overwrites, and a detailed action log - fully offline.
+    image: "/assets/img/downloads-organiser.webp"   # optimised copy (original: github.com/user-attachments/assets/327104b2-4b18-4692-b75b-5110e00b955f)
+    image_alt: "Local AI Downloads Organiser sorting files into folders"
+    tags: ["Python", "Ollama", "Local LLM", "Automation"]
+    link: "https://github.com/Michael-S777/local-ai-downloads-organizer"
+    link_label: "Code on GitHub"
+  - title: "Hate Speech Detection with BERT"
+    summary: >-
+      A classifier that identifies hateful or offensive text, built with PyTorch by fine-tuning a pre-trained BERT
+      model to capture the context and nuance of language.
+    image: "/assets/img/hate-speech.webp"   # optimised copy (original: github.com/user-attachments/assets/77a13acc-dbc6-4ec0-a959-9adb8ff3ba23)
+    image_alt: "Hate speech detection with transformers"
+    tags: ["PyTorch", "BERT", "Hugging Face Transformers", "NLP"]
+    link: "https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing"
+    link_label: "Notebook on Colab"
+  - title: "Wine Quality Prediction"
+    summary: >-
+      Predicts wine quality from chemical and physical characteristics: exploratory analysis, cleaning and
+      scaling, then several machine learning models compared using Mean Squared Error and R-squared.
+    image: "/assets/img/wine-quality.webp"   # optimised copy (original: github.com/user-attachments/assets/54453745-32c9-4394-9a9e-281cc08b5ff8)
+    image_alt: "Wine bottles and glasses illustrating the wine quality analysis"
+    tags: ["Python", "Machine learning", "Regression", "EDA"]
+    link: "https://colab.research.google.com/drive/1icNFHcw1B6Mwi_rgaKRt2QNT6_7mUJWS?usp=sharing"
+    link_label: "Notebook on Colab"
+
+learning:
+  - title: "Object detection with YOLOv5"
+    summary: "Detecting objects in images with a COCO-pre-trained YOLOv5 model in Google Colab."
+    link: "https://colab.research.google.com/drive/1KofFAbshpSBXIBzMqzypi5oUWELDD59S?usp=sharing"
+  - title: "Black Friday purchases analysis"
+    summary: "Exploratory analysis of customer purchasing behaviour, including spending by gender."
+    link: "https://colab.research.google.com/drive/1DCYDU0KGvloirSs0LgbIYlSirrZoUnkW?usp=sharing"
+  - title: "Python for data engineering"
+    summary: "ETL with web scraping and APIs, loading transformed data into databases."
+    link: "https://colab.research.google.com/drive/1Hh-G_HKm93DOQV2QLuwZVIzoy0uX83mP?usp=sharing"
+  - title: "Sudoku solver"
+    summary: "A program that solves Sudoku puzzles while respecting row, column and 3x3 box rules."
+    link: "https://colab.research.google.com/drive/1XG8HPPZ5oSMzKllwFQ1t7OffBgYX9ZJE?usp=sharing"
+
+certificates:
+  - group: "Generative AI & LLMs"
+    entries:
+      - { name: "IBM Generative AI Engineering", url: "https://www.coursera.org/account/accomplishments/professional-cert/Z2XKKQGW0AC9" }
+      - { name: "IBM RAG and Agentic AI", url: "https://www.coursera.org/account/accomplishments/specialization/DZ4ZKN5RH2S7" }
+      - { name: "IBM AI Engineering", url: "https://coursera.org/share/82db3e63c5db90cb21558c18d2fc80f8" }
+      - { name: "Generative AI with Large Language Models", url: "https://github.com/Michael-S777/Python-exercises/blob/main/Generative%20AI%20with%20Large%20Language%20Models.png" }
+      - { name: "Generative AI Engineering with LLMs", url: "https://www.coursera.org/account/accomplishments/specialization/MUJD5WKHVIQ1" }
+      - { name: "Generative AI for Software Development", url: "https://github.com/Michael-S777/Python-exercises/blob/main/Generative%20AI%20for%20Software%20Development.png" }
+      - { name: "Generative AI for Data Scientists", url: "https://www.coursera.org/account/accomplishments/specialization/DPUEDK02C6IJ" }
+      - { name: "Generative AI for Data Analysts", url: "https://www.coursera.org/account/accomplishments/specialization/1IP6OOPOS59P" }
+      - { name: "Generative AI for Educators", url: "https://www.coursera.org/account/accomplishments/specialization/2D6YW6L7W8I3" }
+  - group: "Machine learning & data science"
+    entries:
+      - { name: "IBM Data Science", url: "https://www.coursera.org/account/accomplishments/professional-cert/SP56FSEAQ5ZA" }
+      - { name: "Machine Learning", url: "https://www.coursera.org/account/accomplishments/specialization/MEBN2FNAVPZL" }
+      - { name: "Deep Learning", url: "https://www.coursera.org/account/accomplishments/specialization/BAVSUCCGB96R" }
+      - { name: "Data Science with Databricks for Data Analysts", url: "https://www.coursera.org/account/accomplishments/specialization/certificate/WU766UTSP1AY" }
+      - { name: "Data Science Fundamentals with Python and SQL", url: "https://www.coursera.org/account/accomplishments/specialization/29NQSAB3ZAZ7" }
+  - group: "Data engineering"
+    entries:
+      - { name: "DeepLearning.AI Data Engineering", url: "https://www.coursera.org/account/accomplishments/professional-cert/GXWHKNCQY08O" }
+      - { name: "Snowflake Data Engineering", url: "https://coursera.org/share/51c3bcfb2b731a2e7f3ac62e1cf0d9cf" }
+      - { name: "Data Engineer in Python", url: "https://www.datacamp.com/statement-of-accomplishment/track/9d517315d67ac2e34c5765717fb7f560d85d69e8?raw=1" }
+      - { name: "Python, Bash and SQL Essentials for Data Engineering", url: "https://www.coursera.org/account/accomplishments/specialization/1R860J8ZVAHN" }
+      - { name: "NoSQL, Big Data, and Spark Foundations", url: "https://www.coursera.org/account/accomplishments/specialization/AGMONTFA4HAA" }
+      - { name: "PostgreSQL for Everybody", url: "https://www.coursera.org/account/accomplishments/specialization/743399HD1JT7" }
+      - { name: "Learn SQL Basics for Data Science", url: "https://www.coursera.org/account/accomplishments/specialization/7JZT6H3TH4HK" }
+  - group: "Software development & visualisation"
+    entries:
+      - { name: "IBM Full Stack Software Development", url: "https://www.coursera.org/account/accomplishments/professional-cert/6J9WSUDD7HNJ" }
+      - { name: "Data Structures and Algorithms", url: "https://coursera.org/share/452f41c5ad2820ca01fc209b2b3efa22" }
+      - { name: "Python for Everybody", url: "https://www.coursera.org/account/accomplishments/specialization/N3P27B9BC4G7" }
+      - { name: "Data Visualization with Tableau", url: "https://coursera.org/share/08f83118a1d2b0a88affd7037be171bb" }
+
+education:
+  - degree: "PhD in Accounting & Taxation"
+    institution: "University of Technology Sydney (UTS), Australia"
+    period: "2021 - 2025"
+  - degree: "PhD in Economics (Statistics)"
+    institution: ""       # TODO: add the university (and year) - shown only when filled in
+    period: ""
+  - degree: "CPA Program"
+    institution: "CPA Australia, Sydney"
+    period: ""
+  - degree: "Master of Professional Accounting (Distinction average)"
+    institution: "University of Technology Sydney (UTS), Australia"
+    period: ""
+  - degree: "Bachelor of Economics (Finance)"
+    institution: ""       # TODO: add the university (and year) - shown only when filled in
+    period: ""

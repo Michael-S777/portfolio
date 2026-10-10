@@ -1,21 +1,14 @@
-title: "Michael S"
+# GitHub Pages settings. The page content lives in _data/portfolio.yml; the design in index.html + assets/css.
+title: "Michael S | Senior Data Scientist & Researcher"
+description: >-
+  Data science portfolio of Michael S, Senior Data Scientist and Researcher in Sydney: machine learning, AI,
+  analytics engineering and industry-funded research projects.
+lang: en-AU
+url: "https://michael-s777.github.io"
+baseurl: "/portfolio"
 
-description: >
-  <strong>Senior Data Scientist | Researcher</strong>
-  <br><br>
-  With over a decade of experience in data science and applied research at UTS Business School, I combine a strong academic background in Statistics with expertise in machine learning, AI, and advanced analytics to design intelligent, data-driven solutions that generate actionable insights and support strategic business outcomes.
-  <br><br>
-  <h2>Technical Skills</h2>
-  <h3>Programming:</h3> Python, SQL, R, STATA, SAS
-  <br><br>
-  <h3>Data Visualization:</h3> Tableau, Power BI, Gephi
-  <br><br>
-  <h3>Qualifications<h3>
-  <h5>PhD in Economics (Statistics)<br>     
-  CPA Program<br>
-  Master of Professional Accounting<br>
-  Bachelor of Economics (Finance)</h5>
-
-
-
-theme: jekyll-theme-minimal
+# Not part of the website
+exclude:
+  - README.md
+  - tools
+  - _preview

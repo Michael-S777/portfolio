@@ -101,9 +101,9 @@ layout: null
         <div class="projects">
           {% for p in site.data.portfolio.projects %}
           <article class="project">
-            <a class="project-image" href="{{ p.link | escape }}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+            {% if p.image and p.image != "" %}<a class="project-image" href="{{ p.link | escape }}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
               <img src="{{ p.image | relative_url }}" alt="{{ p.image_alt | escape }}" loading="lazy">
-            </a>
+            </a>{% endif %}
             <div class="project-body">
               <h3><a href="{{ p.link | escape }}" target="_blank" rel="noopener">{{ p.title | escape }}</a></h3>
               <p>{{ p.summary | escape }}</p>

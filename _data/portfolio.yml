@@ -34,7 +34,7 @@ skills:
   - group: "Machine learning & AI"
     entries: ["PyTorch", "Hugging Face", "BERT", "AutoGluon", "LLMs (ChatGPT, Claude, Gemini)", "RAG", "Ollama"]
   - group: "Data engineering & cloud"
-    entries: ["Spark", "Databricks", "Azure", "AWS", "dbt", "DuckDB", "ETL", "GitHub Actions"]
+    entries: ["Spark", "Databricks", "Snowflake", "Azure", "AWS", "dbt", "DuckDB", "ETL", "GitHub Actions"]
   - group: "Visualisation"
     entries: ["Tableau", "Power BI", "Gephi", "Dashboards & web apps"]
 
@@ -117,14 +117,14 @@ projects:
     tags: ["Python", "Ollama", "Local LLM", "Automation"]
     link: "https://github.com/Michael-S777/local-ai-downloads-organizer"
     link_label: "Code on GitHub"
-  - title: "Hate Speech Detection with BERT"
+  - title: "Object Detection with YOLOv5"
     summary: >-
-      A classifier that identifies hateful or offensive text, built with PyTorch by fine-tuning a pre-trained BERT
-      model to capture the context and nuance of language.
-    image: "/assets/img/hate-speech.webp"   # optimised copy (original: github.com/user-attachments/assets/77a13acc-dbc6-4ec0-a959-9adb8ff3ba23)
-    image_alt: "Hate speech detection with transformers"
-    tags: ["PyTorch", "BERT", "Hugging Face Transformers", "NLP"]
-    link: "https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing"
+      Detects and labels objects in images using a YOLOv5 model pre-trained on the COCO dataset, run in Google
+      Colab.
+    image: "/assets/img/yolov5.webp"   # optimised copy (original: github.com/user-attachments/assets/b20e94b6-a5fd-4a14-917c-a63c9fca95d1)
+    image_alt: "YOLOv5 detection output: two cars labelled with confidence scores on a busy street"
+    tags: ["Python", "PyTorch", "YOLOv5", "Computer vision"]
+    link: "https://colab.research.google.com/drive/1KofFAbshpSBXIBzMqzypi5oUWELDD59S?usp=sharing"
     link_label: "Notebook on Colab"
   - title: "Wine Quality Prediction"
     summary: >-
@@ -137,9 +137,9 @@ projects:
     link_label: "Notebook on Colab"
 
 learning:
-  - title: "Object detection with YOLOv5"
-    summary: "Detecting objects in images with a COCO-pre-trained YOLOv5 model in Google Colab."
-    link: "https://colab.research.google.com/drive/1KofFAbshpSBXIBzMqzypi5oUWELDD59S?usp=sharing"
+  - title: "Hate speech detection with BERT"
+    summary: "Fine-tuning a pre-trained BERT model with PyTorch to classify hateful or offensive text."
+    link: "https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing"
   - title: "Black Friday purchases analysis"
     summary: "Exploratory analysis of customer purchasing behaviour, including spending by gender."
     link: "https://colab.research.google.com/drive/1DCYDU0KGvloirSs0LgbIYlSirrZoUnkW?usp=sharing"
